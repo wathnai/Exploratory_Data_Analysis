@@ -1,2 +1,5 @@
  # Exploratory_Data_Analysis
-### TidyData save the orinal data set in a new data set called df
+ 
+ Tidy_Data.R save the original data set in a new data set called df
+ 
+ The following script in R use this df dataset to plot the different graphics
